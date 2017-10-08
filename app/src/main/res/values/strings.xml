@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Material Design</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_search">Search</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_msg">Message</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_msg</item>
+    </string-array>
+
+    <string name="title_msg">Message</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+    <string name="home_string">Edit fragment_home.xml to change the appearance</string>
+    <string name="msg_string">Edit fragment_message.xml to change the appearance</string>
+    <string name="home_main">HOME</string>
+    <string name="msg_main">MESSAGE</string>
+
+</resources>
